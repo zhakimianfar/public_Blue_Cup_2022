@@ -3,7 +3,7 @@
 #include <Wire.h>
 float tacx=0,tacy=0,tacz=0;
 MPU6050 mpu6050(Wire);
-
+MPU-6050-opt
 long timer = 0;
 
 void setup() {
